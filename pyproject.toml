@@ -1,0 +1,18 @@
+[project]
+name = "sc-fog"
+version = "0.1.0"
+description = "QC of single-cell RNA-seq count data"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.ruff.lint]
+select = ["E501", "I"]
+
+dependencies = [
+    "celltypist>=1.7.1",
+    "doubletdetection>=4.3.0.post1",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "scanpy>=1.11.5",
+    "scikit-image>=0.25.2",
+]
