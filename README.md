@@ -2,6 +2,12 @@
 
 28th January 2026
 
+## Update
+
+If you attended the workshop on the 28th January 2026 at the Festival of Genomics - thanks.
+
+**We have added a PDF (sc-fog-workflow.pdf) with the commands we used in the session.**  
+
 ## Welcome
 
 This repository will help you follow along with the single-cell workshop. You will need to clone the repository to your local disk. 
